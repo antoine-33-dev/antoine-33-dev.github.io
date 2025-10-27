@@ -1,7 +1,7 @@
 Conditions d'Utilisation
-Dernière mise à jour : [DATE DU JOUR, par exemple, 27 octobre 2025]
+Dernière mise à jour : [27 octobre 2025]
 
-Le bot Python "[Nom de votre Bot]" (ci-après, "l'Application") est un outil développé pour la gestion de contenu sur TikTok.
+Le bot Python est un outil développé pour la gestion de contenu sur TikTok.
 
 1. Acceptation des Conditions
 En utilisant cette Application, vous acceptez d'être lié par les présentes Conditions d'Utilisation et par les Conditions d'Utilisation de TikTok.
